@@ -17,7 +17,7 @@
 [AI快速查文档 见这里](https://deepwiki.com/Petterpx/FloatingX)
 
 ## 👏 特性 
-
+**
 - 支持 **JetPack Compose**
 - 支持 **浮窗半隐藏模式**
 - 支持 **自定义隐藏显示动画**;
